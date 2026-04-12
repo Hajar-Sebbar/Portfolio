@@ -278,9 +278,15 @@ section {
 
 .section__pic-container {
     display: flex;
-    height: 400px;
-    width: 400px;
-    margin: auto 0;
+    height: 150;
+    width: 150;
+}
+
+.circledp {
+    height: 270px;
+    width: 270px;
+    border-radius: 70%;
+    object-fit: cover;
 }
 
 .section__text {
@@ -411,12 +417,6 @@ section {
 .section-container {
     gap: 4rem;
     height: 80%;
-}
-
-.section__pic-container {
-    height: 400px;
-    width: 400px;
-    margin: auto 0;
 }
 
 /* Experience Section */
