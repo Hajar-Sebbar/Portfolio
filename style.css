@@ -179,7 +179,7 @@ a:hover {
     display: none;
 }
 
-.hamburger-nav {
+.hamburger-menu {
     position: relative;
     display: inline-block;
 
@@ -538,4 +538,3 @@ article.icon {
     text-align: center;
  }
 
- 
